@@ -1,5 +1,5 @@
-# kartalo
-Translator calculator Transulator
+# Transulator
+Translator calculator Transulator 
 
 A Python desktop application built with Tkinter for calculating translation costs based on different units (words, characters with/without spaces) with customizable page divisors.
 
